@@ -5,4 +5,4 @@ Description: This program is about a 5 day planner where you can add things to d
 Link:
 
 
-![Alt text](Assets/screenshot.gif)
+![Alt text](./Assets/screenshot.gif)
